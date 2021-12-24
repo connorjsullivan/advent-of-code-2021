@@ -155,7 +155,7 @@ for i in range(5,len(int_array_picks)):
     # print(len(losers))
     if len(losers) == 1:
         print("got to 1 left")
-        # print(losers[0])
+        # print(losers[0]g)
         lastLoser = losers[0]
     if len(losers) == 0:
         break
